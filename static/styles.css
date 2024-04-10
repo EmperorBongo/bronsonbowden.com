@@ -1,16 +1,3 @@
-.carousel-caption h5,
-.carousel-caption p {
-  color: black; /* Change text color to black */
-  background-color: rgba(255, 255, 255, 0.7); /* Add a semi-transparent white background */
-  padding: 10px; /* Add some padding for better readability */
-  border-radius: 5px; /* Add border-radius for rounded corners */
-}
-.btn-primary {
-  background-color: #007bff; /* Blue */
-  border-color: #007bff;
-  color: #fff; /* White */
-}
-
 h1, p {
   color: #333; /* Black */
   padding: 10px;
